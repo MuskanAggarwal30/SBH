@@ -1,5 +1,4 @@
 import streamlit as st
-git init
 import json
 import os
 import hashlib
