@@ -7,7 +7,7 @@ import pandas as pd
 #from sklearn.linear_model import LinearRegression
 #import matplotlib.pyplot as plt
 from datetime import timedelta
-import openai
+#import openai
 from time import time
 from uuid import uuid4
 from flask import Flask, jsonify, request
