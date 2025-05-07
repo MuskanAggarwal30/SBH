@@ -16,7 +16,7 @@ from uuid import uuid4
 #import cv2
 import datetime
 import numpy as np
-from streamlit_lottie import st_lottie
+#from streamlit_lottie import st_lottie
 import requests
 st.set_page_config(page_title="Smart Waste Management", layout="centered")
 
