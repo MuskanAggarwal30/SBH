@@ -12,8 +12,8 @@ from time import time
 from uuid import uuid4
 #from flask import Flask, jsonify, request
 #import folium
-from streamlit_folium import st_folium
-import cv2
+#from streamlit_folium import st_folium
+#import cv2
 import datetime
 import numpy as np
 from streamlit_lottie import st_lottie
