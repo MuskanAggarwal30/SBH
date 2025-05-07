@@ -11,7 +11,7 @@ from datetime import timedelta
 from time import time
 from uuid import uuid4
 #from flask import Flask, jsonify, request
-import folium
+#import folium
 from streamlit_folium import st_folium
 import cv2
 import datetime
