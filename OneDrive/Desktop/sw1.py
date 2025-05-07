@@ -4,19 +4,19 @@ import os
 import hashlib
 import random
 import pandas as pd
-#from sklearn.linear_model import LinearRegression
-#import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
 from datetime import timedelta
-#import openai
+import openai
 from time import time
 from uuid import uuid4
-#from flask import Flask, jsonify, request
-#import folium
-#from streamlit_folium import st_folium
-#import cv2
+from flask import Flask, jsonify, request
+import folium
+from streamlit_folium import st_folium
+import cv2
 import datetime
 import numpy as np
-#from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie
 import requests
 st.set_page_config(page_title="Smart Waste Management", layout="centered")
 
