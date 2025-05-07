@@ -4,7 +4,7 @@ import os
 import hashlib
 import random
 import pandas as pd
-from sklearn.linear_model import LinearRegression
+#from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 from datetime import timedelta
 import openai
