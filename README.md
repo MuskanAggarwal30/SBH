@@ -1,0 +1,17 @@
+# Project Title: Smart Waste Managment System
+<h1>Team Members:<br>
+Muskan Aggarwal(2401010155)<br>
+Anjali Tomar(2401010080)<br>
+Pooja (2401010136)<br> </h1>
+<h2>Project Overview</h2>
+<p>The Smart Waste Management System is a new web app that is working to tackle urban
+ waste, collection, and management issues. The Smart Waste Management system was built
+ with Streamlit, Folium, Plotly, and Lottie animation technology to present users with an
+ interactive, visual and content rich experience for both citizens and administrators.</p>
+ <h2>Technologies  used in this projects are as followings :</h2>
+ <h2>Drive link of video Presentation</h2>
+ (https://drive.google.com/file/d/1ohLDXyaMFFPRgumG6hWqoW5lRzIzC40u/view?usp=drive_link)
+ <h2>Link for Project Paper</h2>
+ ()
+ <h2>Link for Presentation</h2>
+ <h2>Description of our Campus To Corporate Project</h2>
