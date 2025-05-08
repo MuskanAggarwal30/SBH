@@ -9,9 +9,17 @@ Pooja (2401010136)<br> </h1>
  with Streamlit, Folium, Plotly, and Lottie animation technology to present users with an
  interactive, visual and content rich experience for both citizens and administrators.</p>
  <h2>Technologies  used in this projects are as followings :</h2>
+ Front end and Back end :-> Python
  <h2>Drive link of video Presentation</h2>
  (https://drive.google.com/file/d/1ohLDXyaMFFPRgumG6hWqoW5lRzIzC40u/view?usp=drive_link)
  <h2>Link for Project Paper</h2>
  ()
  <h2>Link for Presentation</h2>
- <h2>Description of our Campus To Corporate Project</h2>
+ ()
+ <h2>Description of our Smart Waste Managment System</h2>
+
+ # Execute the Project
+1.Clone the Repository(copy url and clone it by using Git Bash command line)<br>
+2.Make sure Python IDLE is installed in the system(As it whole system for it)<br>
+3.Go to same path as of your file in IDLE and run command " streamlit run file_name.py " <br>
+4.After running , first register yourself as user and then login.
