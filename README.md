@@ -13,12 +13,12 @@ Pooja (2401010136)<br> </h1>
  <h2>Drive link of video Presentation</h2>
  (https://drive.google.com/file/d/1ohLDXyaMFFPRgumG6hWqoW5lRzIzC40u/view?usp=drive_link)
  <h2>Link for Project Paper</h2>
- ()
+ (https://in.docworkspace.com/d/sINSmnZbSAfi62MAG)
  <h2>Link for Presentation</h2>
- ()
+ (https://in.docworkspace.com/d/sIDCmnZbSAcvw8sAG)
  <h2>Description of our Smart Waste Managment System</h2>
-
- # Execute the Project
+<p>The Smart Waste Management System is an AI-powered application designed to revolutionize urban sanitation by optimizing waste collection, improving operational efficiency, and engaging citizens through interactive features. It leverages machine learning for waste prediction, real-time monitoring of bins, route optimization for garbage trucks, and a community-driven leaderboard to promote responsible waste behavior.</p>
+ <h3># Execute the Project</h3>
 1.Clone the Repository(copy url and clone it by using Git Bash command line)<br>
 2.Make sure Python IDLE is installed in the system(As it whole system for it)<br>
 3.Go to same path as of your file in IDLE and run command " streamlit run file_name.py " <br>
